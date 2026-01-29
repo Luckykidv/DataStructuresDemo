@@ -1,4 +1,5 @@
 # Data Structures & Algorithms Demo
+**By :[Group 8]**
 
 A comprehensive Java application demonstrating various data structures and algorithms with interactive demos.
 
@@ -10,18 +11,3 @@ A comprehensive Java application demonstrating various data structures and algor
 - **Interactive Menu System** with visualizations
 
 ## Project Structure
-DataStructuresDemo/
-├── src/
-│ └── com/datastructures/
-│ ├── Main.java
-│ ├── structures/
-│ │ ├── CustomLinkedList.java
-│ │ ├── BinarySearchTree.java
-│ │ └── Graph.java
-│ └── algorithms/
-│ ├── SortingAlgorithms.java
-│ ├── SearchAlgorithms.java
-│ └── PathfindingAlgorithms.java
-├── .vscode/
-├── README.md
-└── .gitignore
